@@ -1,40 +1,53 @@
-# 🎓 Supervised Learning: KNN, Naive Bayes & Linear Regression
+# 📊 SPSS & IBM Cognos Analytics — Data Analysis Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?style=for-the-badge&logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red?style=for-the-badge&logo=jupyter)
-![pandas](https://img.shields.io/badge/pandas-Data-green?style=for-the-badge&logo=pandas)
+![SPSS](https://img.shields.io/badge/SPSS-Statistics-blue?style=for-the-badge&logo=ibm)
+![IBM Cognos](https://img.shields.io/badge/IBM-Cognos%20Analytics-054ADA?style=for-the-badge&logo=ibm)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-purple?style=for-the-badge)
 
 ---
 
 ## 📌 About
-ML assignment applying three supervised learning algorithms on a **student performance dataset** to predict final scores and pass/fail outcomes.
-
----
-
-## 🧠 Algorithms Used
-
-| Algorithm | Task | Accuracy |
-|---|---|---|
-| 📈 Linear Regression | Predict Final Score | R² = 0.961 |
-| 🔵 K-Nearest Neighbors | Classify Pass/Fail | 1.000 (k=3,5) |
-| 🟢 Naive Bayes (GaussianNB) | Classify Pass/Fail | 1.000 |
+A collection of SPSS and IBM Cognos Analytics assignments completed as part of a university data analytics course. Each unit explores a different aspect of business data — from sales performance to customer segmentation — using real-world retail datasets.
 
 ---
 
 ## 📂 Files
-- `ASSIGNMENT_3_HARSHITA_GUPTA.ipynb` — Full Jupyter Notebook
-- `ASSIGNMENT_3_HARSHITA_GUPTA.pdf` — PDF Report
-- `student_scores_data.csv` — Dataset
+
+| File | Description |
+|---|---|
+| `SPSS_ASSIGNMENT_HARSHITA_GUPTA.pdf` | Full assignment report with dashboard screenshots |
+| `N01726178_HARSHITA_GUPTA_SPSS.docx` | Written analysis and interpretation |
+| `unit_07_exercise_1.str` | SPSS stream — Unit 7 Exercise |
+| `unit_08_exercise_1.str` | SPSS stream — Unit 8 Exercise |
+| `EXERCISE_2_UNIT_3.str` | SPSS stream — Unit 3 Exercise 2 |
+| `EXERCISE_3_UNIT_4.str` | SPSS stream — Unit 4 Exercise 3 |
 
 ---
 
-## 📊 Results Summary
-- **Linear Regression** → R²=0.961, MAE=3.63, RMSE=4.02
-- **KNN (k=5)** → Accuracy=1.00, F1=1.00
-- **Naive Bayes** → Accuracy=1.00, F1=1.00
+## 📈 Dashboards & Analysis Covered
+
+### 🛍️ Product Performance by Department
+- Marketing response by coupon type across departments
+- Department sales breakdown by loyalty status (bubble chart)
+- Product line performance by year and quarter
+
+### 🗺️ Regional Sales Performance
+- Global revenue map by country, province, and state
+- Quantity sold by average sale price across product lines
+
+### 💎 Customer Lifetime Value
+- Customer segmentation by loyalty tier (Gold, Silver, Bronze, Platinum, VIP)
+- Product line targeting and coupon response drivers
 
 ---
 
-## 🛠️ Tech Stack
-`Python` `scikit-learn` `pandas` `NumPy` `matplotlib` `seaborn` `Jupyter Notebook`
+## 🔍 Key Insights
+- 📷 **Photography** was the top-performing department across most quarters
+- 🎮 **Video Games and Consoles** showed strong seasonal spikes
+- 💳 Loyalty status significantly influenced purchasing behavior
+- 🌍 Regional sales varied heavily by geography
+
+---
+
+## 🛠️ Tools Used
+`IBM SPSS Statistics` `IBM Cognos Analytics` `SPSS Modeler (.str)` `Data Visualization` `Business Intelligence`
